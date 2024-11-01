@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imu_vcp.iml" filepath="$PROJECT_DIR$/imu_vcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/imu_vcp_android.iml" filepath="$PROJECT_DIR$/android/imu_vcp_android.iml" />
+    </modules>
+  </component>
+</project>
